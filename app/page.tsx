@@ -1,7 +1,8 @@
+import Home from "@/components/home/views/Home";
 import React from "react";
 
 const Page: React.FC = () => {
-  return <div></div>;
+  return <Home />;
 };
 
 export default Page;
