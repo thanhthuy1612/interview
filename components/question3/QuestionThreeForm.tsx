@@ -53,7 +53,7 @@ const QuestionThreeForm: React.FC<IQuestionThreeFormProps> = ({
               <FormItem>
                 <FormLabel>Input</FormLabel>
                 <FormControl>
-                  <Input placeholder="j" {...field} />
+                  <Input placeholder="Input..." {...field} />
                 </FormControl>
                 <FormMessage />
               </FormItem>

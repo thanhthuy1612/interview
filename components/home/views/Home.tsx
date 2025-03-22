@@ -11,7 +11,7 @@ import React from "react";
 const Home: React.FC = () => {
   return (
     <div className="flex justify-center">
-      <Card className="w-full max-w-[1190px]">
+      <Card className="w-full max-w-[1190px] mx-5">
         <CardHeader>
           <CardTitle>Information</CardTitle>
           <CardDescription>TEST ROUND 1 - 20250319</CardDescription>

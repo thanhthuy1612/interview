@@ -83,7 +83,7 @@ const QuestionOne: React.FC = () => {
   }, [request]);
 
   return (
-    <div className="flex flex-col items-center mt-10">
+    <div className="flex flex-col items-center mt-10 mx-5">
       <Card className="w-full max-w-[1190px] mx-5">
         <CardHeader>
           <CardTitle>Question 1</CardTitle>

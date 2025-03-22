@@ -95,7 +95,7 @@ const QuestionThree: React.FC = () => {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [request]);
   return (
-    <div className="flex flex-col justify-center items-center">
+    <div className="flex flex-col justify-center items-center mx-5">
       <Card className="w-full max-w-[1190px] mx-5">
         <CardHeader>
           <CardTitle>Question 3</CardTitle>
